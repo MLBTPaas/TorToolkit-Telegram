@@ -8,7 +8,7 @@ except:
         API_HASH = "14ae45755537c723aab0564a80d723a9"
         API_ID = 22681384
         BOT_TOKEN = "5776880887:AAHfe83bGT3jsidXFPsgkx_0d5XKUOpwtyU"
-        BASE_URL_OF_BOT = "https://awesome-app-5325.clb.nifetency.com"
+        BASE_URL_OF_BOT = "https://tortoolkit.clb.nifetency.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
