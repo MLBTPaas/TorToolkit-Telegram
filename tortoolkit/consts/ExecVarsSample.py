@@ -8,14 +8,14 @@ except:
         API_HASH = "14ae45755537c723aab0564a80d723a9"
         API_ID = 22681384
         BOT_TOKEN = "5776880887:AAHfe83bGT3jsidXFPsgkx_0d5XKUOpwtyU"
-        BASE_URL_OF_BOT = ""
+        BASE_URL_OF_BOT = "https://awesome-app-5325.clb.nifetency.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [5468192421]
-        OWNER_ID = 0
+        ALD_USR = [5468192421,1349301822]
+        OWNER_ID = 5468192421
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
