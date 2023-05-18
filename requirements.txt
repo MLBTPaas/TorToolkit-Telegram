@@ -16,7 +16,7 @@ instaloader==4.6
 lxml==4.9.0
 megasdkrestclient==0.1.1
 natsort==7.1.0
-pkg-resources==0.0.0
+#pkg-resources==0.0.0
 psutil==5.8.0
 psycopg2-binary==2.8.5
 pymongo==4.1.1
