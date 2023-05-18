@@ -14,7 +14,7 @@ except:
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [5468192421,1349301822]
+        ALD_USR = [5468192421,1349301822,-1001664467617,-1001750717073]
         OWNER_ID = 5468192421
         
         # Google Drive Index Link should include the base dir also See readme for more info
@@ -30,10 +30,10 @@ except:
         FORCE_DOCUMENTS = False
 
         # Chracter to use as a completed progress 
-        COMPLETED_STR = "▰"
+        COMPLETED_STR = "█"
 
         # Chracter to use as a incomplete progress
-        REMAINING_STR = "▱"
+        REMAINING_STR = "░"
 
         # DB URI for access
         DB_URI = "postgres://ttk_fzl3_user:rIS106u0AeZSOLTFoqQTTsFFSN6rU8fB@dpg-chiuve5269v2e2c5ihf0-a.oregon-postgres.render.com/ttk_fzl3"
