@@ -10,5 +10,5 @@ RUN chmod 777 start.sh
 
 #RUN useradd -ms /bin/bash  myuser
 #USER myuser
-
+EXPOSE 80
 CMD ./start.sh
